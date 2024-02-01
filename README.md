@@ -14,7 +14,7 @@
 
 ## Como Funciona
 
-🗂 O projeto utiliza de uma API para fazer a busca do Artista pelo seu nome.
+🗂 O projeto utiliza uma API para fazer a busca do Artista pelo seu nome.
 
 ## Link do projeto
 
