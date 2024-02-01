@@ -14,7 +14,7 @@ O projeto utiliza de uma API para fazer a busca do Artista pelo seu nome.
 
 ## Link do projeto
 
-[Deploy](/)
+[Deploy](https://spotify-reacty.vercel.app/)
 
 ## Execute a API
 
