@@ -18,7 +18,7 @@
 
 ## Link do projeto
 
-📌 [Deploy](https://spotify-reacty.vercel.app/)
+📌 [Deploy](https://spotify-react-three.vercel.app/)
 
 ## Execute a API
 Clone o repositório
