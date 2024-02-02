@@ -29,4 +29,4 @@ Clone o repositório
 <br/>
 `npm start`
 <br/>
-`Altere o "fetch" no arquivo App.jss, tire o link do vercel e altere para o http://localhost:3000`
+`Altere o "fetch" no arquivo App.js, tire o link do vercel e altere para o http://localhost:3000`
