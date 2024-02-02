@@ -12,7 +12,7 @@ function App() {
 
   useEffect(() => {
     if (search !== "") {
-      fetch(`https://spotify-reacty.vercel.app/artists?name_like=${search}`)
+      fetch(`https://spotify-react-three.vercel.app//artists?name_like=${search}`)
         .then((response) => response.json())
         .then((data) => {
           setData(data);
