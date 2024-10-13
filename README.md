@@ -2,8 +2,7 @@
 
  🎧 O projeto consiste em clonar o site do Spotify.
   <br/>
-  <br/>
- 🖥 Feito na Imersão Alura.
+  
 
 
 
